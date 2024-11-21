@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://pes.edu/'>PES University, Bengaluru</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>04S6, BE Block</p>
+    <p>PES University</p>
+    <p>RR Campus, BSK Stage III,  Bengaluru, Karnataka 560085</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Vaishnavi Gujjula is an Associate Professor in the Department of Computer Science & Engineering (AIML), [PES University](https://pes.edu/), Bengaluru.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+She began her academic journey as an Assistant Professor in the Department of CSE (AIML), PES University in July 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+She has done a Post-Doctoral Fellowship under the guidance of [Prof. Dipanjan Gope](https://ece.iisc.ac.in/~dipanjan/) in the [Department of Electrical Communication Engineering, IISc](https://ece.iisc.ac.in/), Bengaluru from July 2023 to July 2024. She worked on fast solvers for computational electromagnetics and scientific machine learning.
+
+She pursued her PhD under the guidance of [Dr. Sivaram Ambikasaran](https://sivaramambikasaran.com/) in the Department of Mathematics and the Department of Computational & Data Sciences at IISc Bengaluru. Later she continued her PhD at the [Department of Mathematics, IIT Madras](https://math.iitm.ac.in/), and successfully defended her PhD thesis in 2023. Her thesis is in the field of Computational Mathematics with applications to N-body problems in physics and machine learning.
+
+From 2014-2016 she worked as a Deputy Engineer in the Fire Control Systems (FCS) unit of Naval Systems SBU, at [Bharat Electronics Limited (BEL)](https://bel-india.in/), Bengaluru.
+
+She holds a B.Tech degree in Electronics & Communication Engineering from [KL University, Andhra Pradesh](https://www.kluniversity.in/).
