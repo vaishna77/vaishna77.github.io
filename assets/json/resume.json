@@ -36,6 +36,22 @@
       "url": "https://example.com",
       "startDate": "July 2024",
       "endDate": "Sept 2024"
+    },
+    {
+      "name": "Flipkart",
+      "position": "Intern",
+      "url": "https://corporate.flipkart.net/corporate-home",
+      "startDate": "May 2020",
+      "endDate": "Sept 2020",
+      "summary": "Designed Network Aware Forecasting for eCommerce Supply Planning"
+    },
+    {
+      "name": "Bharat Electronics Limited",
+      "position": "Deputy Engineer",
+      "url": "https://bel-india.in/",
+      "startDate": "Jan 2014",
+      "endDate": "Sept 2016",
+      "summary": "Worked on Digital Signal Processing unit of RADAR - a key module of RADAR in identifying and tracking targets"
     }
   ],
   "education": [
