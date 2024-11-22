@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://pes.edu/'>PES University, Bengaluru</a>
+subtitle: <a href='https://pes.edu/'>Associate Professor, PES University, Bengaluru</a>
 
 profile:
   align: right
