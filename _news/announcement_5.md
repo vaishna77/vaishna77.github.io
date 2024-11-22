@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Promoted to Associate Professor at Department of CSE (AIML) PES University, Bengaluru
+Appointed as Associate Professor at Department of CSE (AIML) PES University, Bengaluru

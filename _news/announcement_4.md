@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined as Assistant Professor at Department of CSE (AIML) PES University, Bengaluru
+Appointed as Assistant Professor at Department of CSE (AIML) PES University, Bengaluru
