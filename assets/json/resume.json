@@ -24,21 +24,21 @@
   },
   "work": [
     {
-      "name": "Department of Computer Science & Engineering (AIML), PES University",
+      "name": "Department of Computer Science & Engineering (AIML), PES University, Bengaluru",
       "position": "Associate Professor",
       "url": "https://example.com",
       "startDate": "Oct 2024",
       "endDate": "present"
     },
     {
-      "name": "Department of Computer Science & Engineering (AIML), PES University",
+      "name": "Department of Computer Science & Engineering (AIML), PES University, Bengaluru",
       "position": "Assistant Professor",
       "url": "https://example.com",
       "startDate": "July 2024",
       "endDate": "Sept 2024"
     },
     {
-      "name": "Flipkart",
+      "name": "Flipkart, Bengaluru",
       "position": "Intern",
       "url": "https://corporate.flipkart.net/corporate-home",
       "startDate": "May 2020",
@@ -46,7 +46,7 @@
       "summary": "Designed Network Aware Forecasting for eCommerce Supply Planning"
     },
     {
-      "name": "Bharat Electronics Limited",
+      "name": "Bharat Electronics Limited, Bengaluru",
       "position": "Deputy Engineer",
       "url": "https://bel-india.in/",
       "startDate": "Jan 2014",
